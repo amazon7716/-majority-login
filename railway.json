@@ -7,5 +7,5 @@
       "APP_URL": "https://majority-login-production.up.railway.app"
     }
   },
-  "start": "php artisan serve --host=0.0.0.0 --port=$PORT --public public"
+  "start": "php artisan serve --host=0.0.0.0 --port=$PORT"
 }
